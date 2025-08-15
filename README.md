@@ -1,5 +1,5 @@
 ## Requried Environment Variables
-<p>MONGOOSE_URI=your_mongoose_uri</p>
+<p>PORT=application_port</p>
 <p>RABBITMQ_SERVER_URL=your_rabbitmq_server_url</p>
 
 <p align="center">
